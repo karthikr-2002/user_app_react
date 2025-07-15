@@ -23,7 +23,7 @@ const Navuser = () => {
           <Link class="nav-link" to="/search">Search User</Link>
         </li>
         <li class="nav-item">
-          <Link class="nav-link" to="/view">View User</Link>
+          <Link class="nav-link" to="/view">View ALL</Link>
         </li>
         
        
